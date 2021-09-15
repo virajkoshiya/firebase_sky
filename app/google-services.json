@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309530441117",
+    "project_id": "skyfirebase-36bb3",
+    "storage_bucket": "skyfirebase-36bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309530441117:android:35afb3c863eda994bceb74",
+        "android_client_info": {
+          "package_name": "com.example.skyfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309530441117-n4f0kdgqqc2etl5eph5lo7plpv9lgfn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa2ZfwIxP0E616LrSC6tuh3EY1QSXS02U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309530441117-n4f0kdgqqc2etl5eph5lo7plpv9lgfn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
